@@ -1,4 +1,5 @@
 # SE1610_Group_Stress
+- This is project about car booking system using jsp, servlet 
 # Member:
 - Nguyễn Hoàng Đức Huy
 - Nguyễn Hiển Vinh
